@@ -4,7 +4,6 @@ It is a project starter template for Html and Javascript, especially when you ne
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 git clone https://github.com/ShiyamAdhithya/WebPack_TypeScript_BoilerPlate.git
