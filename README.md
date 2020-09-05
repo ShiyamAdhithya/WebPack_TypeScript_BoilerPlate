@@ -6,7 +6,10 @@ It is a project starter template for Html and Javascript, especially when you ne
 
 
 ```bash
-git clone https://github.com/ShiyamAdhithya/WebPack_TypeScript_BoilerPlate.git
+git clone https://github.com/ShiyamAdhithya/WebPack_TypeScript_BoilerPlate.git 'folder name'
+git remote rm <remote-name>
+git rempte add origin 'your-orgin-address'
+git push -m origin master
 ```
 
 
